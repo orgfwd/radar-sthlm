@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-02T19:13:49.246101+01:00",
+ "d1": {
+  "dep": "15:00",
+  "arr": "23:37",
+  "risk": "Röd",
+  "dark": 93
+ },
+ "d2": {
+  "dep": "07:00",
+  "arr": "14:22",
+  "risk": "Röd",
+  "best": "06:30",
+  "best_arr": "13:52",
+  "best_risk": "Röd"
+ },
+ "d3": {
+  "dep": "07:00",
+  "arr": "22:59",
+  "risk": "Röd",
+  "best": "06:00",
+  "best_risk": "Röd"
+ },
+ "reds": {
+  "d1": [
+   "nära Kongsvinger 21:34 (dimma, sikt < 300 m, mörker + kyla (is syns inte))",
+   "km 528 22:33 (dimma, sikt < 300 m, mörker + kyla (is syns inte))"
+  ],
+  "d2": [
+   "km 336 12:43 (dimma, sikt < 300 m)"
+  ],
+  "d3": [
+   "Haugesund 07:00 (dimma, sikt < 300 m)",
+   "km 480 15:37 (dimma, sikt < 300 m)",
+   "Kongsvinger 16:36 (dimma, sikt < 300 m, mörker + kyla (is syns inte))"
+  ]
+ },
+ "alerts": 0,
+ "ferry": {
+  "d2alt": true,
+  "d3alt": true
+ }
+}
