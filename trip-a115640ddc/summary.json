@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-04T06:29:26.317159+01:00",
+ "updated": "2026-11-04T06:46:20.250560+01:00",
  "d1": {
-  "dep": "15:00",
-  "arr": "23:37",
+  "dep": "13:00",
+  "arr": "21:37",
   "risk": "Röd",
-  "dark": 93
+  "dark": 71
  },
  "d2": {
   "dep": "07:00",
@@ -23,7 +23,7 @@
  },
  "reds": {
   "d1": [
-   "km 528 22:33 (dimma, sikt < 300 m, mörker + kyla (is syns inte))"
+   "km 528 20:33 (dimma, sikt < 300 m, mörker + kyla (is syns inte))"
   ],
   "d2": [],
   "d3": [
