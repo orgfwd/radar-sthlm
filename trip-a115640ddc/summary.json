@@ -1,33 +1,35 @@
 {
- "updated": "2026-11-04T06:46:20.250560+01:00",
+ "updated": "2026-11-04T20:00:17.029876+01:00",
  "d1": {
   "dep": "13:00",
   "arr": "21:37",
-  "risk": "Röd",
+  "risk": "Gul",
   "dark": 71
  },
  "d2": {
   "dep": "07:00",
   "arr": "14:22",
   "risk": "Röd",
-  "best": "06:00",
-  "best_arr": "13:22",
-  "best_risk": "Gul"
+  "best": "06:30",
+  "best_arr": "13:52",
+  "best_risk": "Röd"
  },
  "d3": {
   "dep": "07:00",
   "arr": "22:59",
   "risk": "Röd",
-  "best": "06:30",
+  "best": "04:30",
   "best_risk": "Röd"
  },
  "reds": {
-  "d1": [
-   "km 528 20:33 (dimma, sikt < 300 m, mörker + kyla (is syns inte))"
+  "d1": [],
+  "d2": [
+   "nära Haukeli 09:58 (dimma, sikt < 300 m, kallt på fjället)"
   ],
-  "d2": [],
   "d3": [
-   "Haugesund 07:00 (dimma, sikt < 300 m, mörker + kyla (is syns inte))"
+   "Haugesund 07:00 (dimma, sikt < 300 m, mörker + kyla (is syns inte))",
+   "km 96 08:29 (dimma, sikt < 300 m, mörker + kyla (is syns inte))",
+   "nära Haukeli 10:28 (dimma, sikt < 300 m)"
   ]
  },
  "alerts": 0,
