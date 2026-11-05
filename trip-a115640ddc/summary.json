@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:37:30.416863+01:00",
+ "updated": "2026-11-05T12:40:24.201743+01:00",
  "d1": {
   "dep": "13:00",
   "arr": "21:01",
@@ -8,15 +8,15 @@
  },
  "d2": {
   "dep": "07:00",
-  "arr": "14:22",
+  "arr": "15:13",
   "risk": "Röd",
-  "best": "06:30",
-  "best_arr": "13:52",
+  "best": "05:30",
+  "best_arr": "13:43",
   "best_risk": "Röd"
  },
  "d3": {
   "dep": "07:00",
-  "arr": "22:59",
+  "arr": "23:24",
   "risk": "Röd",
   "best": "04:00",
   "best_risk": "Röd"
@@ -24,11 +24,11 @@
  "reds": {
   "d1": [],
   "d2": [
-   "km 336 12:43 (dimma, sikt < 300 m)"
+   "km 336 12:47 (dimma, sikt < 300 m)"
   ],
   "d3": [
    "Røldal 09:36 (dimma, sikt < 300 m)",
-   "nära Haukeli 10:28 (dimma, sikt < 300 m)"
+   "nära Haukeli 10:29 (dimma, sikt < 300 m)"
   ]
  },
  "alerts": 0,
