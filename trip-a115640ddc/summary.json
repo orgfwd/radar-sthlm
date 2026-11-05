@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:30:16.268321+01:00",
+ "updated": "2026-11-05T08:01:13.249556+01:00",
  "d1": {
   "dep": "13:00",
   "arr": "21:37",
@@ -19,14 +19,15 @@
   "arr": "22:59",
   "risk": "Röd",
   "best": "08:30",
-  "best_risk": "Gul"
+  "best_risk": "Röd"
  },
  "reds": {
   "d1": [],
   "d2": [
-   "nära Haukeli 09:58 (dimma, sikt < 300 m, kallt på fjället)"
+   "km 336 12:43 (dimma, sikt < 300 m)"
   ],
   "d3": [
+   "Røldal 09:36 (dimma, sikt < 300 m)",
    "nära Haukeli 10:28 (dimma, sikt < 300 m)"
   ]
  },
