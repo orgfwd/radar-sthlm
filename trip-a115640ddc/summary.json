@@ -1,34 +1,34 @@
 {
- "updated": "2026-11-06T05:30:14.498375+01:00",
+ "updated": "2026-11-06T17:52:11.042510+01:00",
  "d1": {
   "dep": "13:00",
-  "arr": "21:01",
+  "arr": "20:41",
   "risk": "Gul",
   "dark": 57
  },
  "d2": {
   "dep": "07:00",
-  "arr": "15:13",
+  "arr": "14:53",
   "risk": "Röd",
-  "best": "05:30",
-  "best_arr": "13:43",
-  "best_risk": "Gul"
+  "best": "06:00",
+  "best_arr": "13:53",
+  "best_risk": "Röd"
  },
  "d3": {
   "dep": "07:00",
-  "arr": "23:24",
-  "risk": "Röd",
-  "best": "06:00",
+  "arr": "22:24",
+  "risk": "Gul",
+  "best": "06:30",
   "best_risk": "Gul"
  },
  "reds": {
   "d1": [],
-  "d2": [],
-  "d3": [
-   "Haugesund 07:00 (dimma, sikt < 300 m)"
-  ]
+  "d2": [
+   "km 336 12:37 (dimma, sikt < 300 m)"
+  ],
+  "d3": []
  },
- "alerts": 0,
+ "alerts": 1,
  "ferry": {
   "d2alt": true,
   "d3alt": true
