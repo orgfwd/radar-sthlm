@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:00:15.271606+01:00",
+ "updated": "2026-11-06T05:30:14.498375+01:00",
  "d1": {
   "dep": "13:00",
   "arr": "21:01",
@@ -19,15 +19,13 @@
   "arr": "23:24",
   "risk": "Röd",
   "best": "06:00",
-  "best_risk": "Röd"
+  "best_risk": "Gul"
  },
  "reds": {
   "d1": [],
   "d2": [],
   "d3": [
-   "Haugesund 07:00 (dimma, sikt < 300 m)",
-   "km 96 08:29 (dimma, sikt < 300 m, mörker + kyla (is syns inte))",
-   "nära Haukeli 10:29 (dimma, sikt < 300 m)"
+   "Haugesund 07:00 (dimma, sikt < 300 m)"
   ]
  },
  "alerts": 0,
